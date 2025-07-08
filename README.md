@@ -34,7 +34,7 @@ This is a simple Tic Tac Toe (XO) game built using Android (Kotlin). It is a two
 ## 🧰 Technologies Used
 
 - **Android Studio**
-- **Kotlin** or **Java** (whichever you used)
+- **Kotlin**
 - **XML for UI Design**
 
 ## 🚀 Getting Started
