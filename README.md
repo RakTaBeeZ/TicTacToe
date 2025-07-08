@@ -45,3 +45,6 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/RakTaBeeZ/TicTacToe.git
+```
+2. **Open the project in Android Studio**
+3. **Build and run the app on an emulator or a physical Android device**
