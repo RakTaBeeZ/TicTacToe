@@ -16,7 +16,7 @@ This is a simple Tic Tac Toe (XO) game built using Android (Kotlin). It is a two
 
 ## 📸 Screenshots
 
->![WhatsApp Image 2025-07-08 at 7 26 51 PM](https://github.com/user-attachments/assets/fc9f9e45-9522-4c64-ae2f-d4bca5aa4b6f)![WhatsApp Image 2025-07-08 at 7 26 50 PM (1)](https://github.com/user-attachments/assets/7ba91808-3104-4ad4-a7e4-f52a2a90e09f)![WhatsApp Image 2025-07-08 at 7 26 50 PM](https://github.com/user-attachments/assets/fe45c84d-3e46-4158-934b-413cc0d129f6)
+>![WhatsApp Image 2025-07-08 at 7 26 51 PM](https://github.com/user-attachments/assets/5ce370db-0ee3-4ea6-a1c9-46526a643ecd)
 
 
 
