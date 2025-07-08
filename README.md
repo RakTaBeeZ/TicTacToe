@@ -28,8 +28,8 @@ This is a simple Tic Tac Toe (XO) game built using Android (Kotlin). It is a two
 
 | Game Board | Player X Wins | Draw |
 |------------|---------------|------|
-| ![WhatsApp Image 2025-07-08 at 7 41 55 PM (2)](https://github.com/user-attachments/assets/5651d10a-0d17-4dbd-b663-e1ee57c9f782) | ![WhatsApp Image 2025-07-08 at 7 41 55 PM (1)](https://github.com/user-attachments/assets/b9d2158b-b2e0-4c7b-8e3b-9ca607c01363)
- | ![Screenshot3](screenshots/3.png) |
+| ![WhatsApp Image 2025-07-08 at 7 41 55 PM (2)](https://github.com/user-attachments/assets/5651d10a-0d17-4dbd-b663-e1ee57c9f782) | ![WhatsApp Image 2025-07-08 at 7 41 55 PM (1)](https://github.com/user-attachments/assets/b9d2158b-b2e0-4c7b-8e3b-9ca607c01363) | ![WhatsApp Image 2025-07-08 at 7 41 55 PM](https://github.com/user-attachments/assets/d85d7105-989c-4d48-82ed-0037d5c0d81e)
+ |
 
 ## 🧰 Technologies Used
 
