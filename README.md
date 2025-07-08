@@ -58,4 +58,5 @@ Score tracking system
 
 ## 🧑‍💻 Author
 Naresh Choudhary
+
 Android Developer | GitHub | LinkedIn
