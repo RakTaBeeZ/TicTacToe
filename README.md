@@ -49,13 +49,13 @@ git clone https://github.com/RakTaBeeZ/TicTacToe.git
 2. **Open the project in Android Studio**
 3. **Build and run the app on an emulator or a physical Android device**
 
-##✨ Future Improvements
+## ✨ Future Improvements
 Add single-player mode with AI
 
 Sound effects and animations
 
 Score tracking system
 
-##🧑‍💻 Author
+## 🧑‍💻 Author
 Naresh Choudhary
 Android Developer | GitHub | LinkedIn
