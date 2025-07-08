@@ -1,6 +1,6 @@
 # Tic Tac Toe - Offline Multiplayer Android Game
 
-![Tic Tac Toe Banner](banner.png) <!-- Optional: Replace or remove this line -->
+
 
 ## 🕹️ Overview
 
