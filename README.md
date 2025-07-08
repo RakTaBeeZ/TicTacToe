@@ -4,7 +4,7 @@
 
 ## 🕹️ Overview
 
-This is a simple Tic Tac Toe (XO) game built using Android (Kotlin). It is a two-player offline multiplayer game played on the same device, with a clean and user-friendly UI. This app demonstrates basic Android UI handling, logic implementation, and local multiplayer functionality.
+This is a simple **Tic Tac Toe (XO)** game built using Android (Kotlin). It is a two-player offline multiplayer game played on the same device, with a clean and user-friendly UI. This app demonstrates basic Android UI handling, logic implementation, and local multiplayer functionality.
 
 ## 🎮 Features
 
